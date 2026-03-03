@@ -4,3 +4,5 @@ bro/
 __pycache__/
 *.json
 db/
+# local attendance db
+library_attendance/attendance.db
