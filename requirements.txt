@@ -5,3 +5,7 @@ python-dotenv
 langchain-openai
 openai
 langchain
+fastapi
+uvicorn
+jinja2
+pytest
